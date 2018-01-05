@@ -7,4 +7,4 @@ pushd flight-school
   bundle exec rspec
 popd
 
-echo "hello mies"
+echo "hello mies!"
